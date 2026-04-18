@@ -5,5 +5,6 @@
   "minAppVersion": "1.5.0",
   "description": "A minimal Obsidian plugin that collapses unordered list branches containing standard Markdown blockquotes (>).",
   "author": "SuSequs-X",
-  "authorUrl": "https://github.com/SuSequs-X/obsidian-unordered-quote-fold",
+  "authorUrl": "https://github.com/SuSequs-X/obsidian-unordered-list-quote-fold",
+  "isDesktopOnly": false
 }
