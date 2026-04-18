@@ -1,0 +1,28 @@
+/* Unordered List Quote Fold
+   Runtime styles are injected from main.js so settings changes apply immediately.
+*/
+
+.qtf-settings {
+  padding-bottom: 16px;
+}
+
+.qtf-settings-shell {
+  width: min(100%, 760px);
+  margin: 0 auto;
+}
+
+.qtf-settings .setting-item-control input[type="number"],
+.qtf-settings .setting-item-control input[type="text"],
+.qtf-settings .setting-item-control select {
+  border-radius: 6px;
+}
+
+.qtf-settings .mod-cta,
+.qtf-settings .qtf-tab {
+  border-radius: 6px;
+  box-shadow: none;
+}
+
+.qtf-settings .qtf-tab:focus-visible {
+  box-shadow: inset 0 0 0 1px var(--interactive-accent);
+}

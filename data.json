@@ -1,0 +1,23 @@
+{
+  "triggerMode": "click",
+  "hoverOpenDelay": 300,
+  "hoverCloseDelay": 300,
+  "animationDuration": 500,
+  "easing": "cubic-bezier(0.2, 0.8, 0.2, 1)",
+  "badgeType": "emoji",
+  "badgeText": "引用",
+  "badgeEmoji": "✒",
+  "badgePosition": "outside-left",
+  "badgeOffsetX": 30,
+  "badgeOffsetY": 2,
+  "badgeBg": "var(--interactive-accent)",
+  "badgeTextColor": "var(--text-on-accent)",
+  "badgeBorderColor": "transparent",
+  "badgeFontSize": 12,
+  "badgeOpacity": 0.95,
+  "badgeRadius": 999,
+  "badgePaddingX": 8,
+  "badgePaddingY": 2,
+  "revealIndent": 8,
+  "autoCollapseOthers": false
+}
